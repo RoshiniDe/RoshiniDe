@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Software Engineering undergraduate passionate about building innovative solutions. 🚀
 
 🔥 About Me
-- 🎓 **Software Engineering Student**
+- 🎓 **Software Engineering Undergrad**
 - 👀 I’m interested in **web development, AI-driven applications, and software architecture**
 - 🌱 I’m currently learning **Spring Boot, React.js, and Node.js**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshini-de-silva) 
@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a Software Engineering undergraduate passionat
 
 - 🚀 Always excited to collaborate and learn new technologies!
 
+<!---
 ![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshiniDe&show_icons=true&theme=dark)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshiniDe&theme=react)
@@ -21,7 +22,7 @@ Welcome to my GitHub profile! I'm a Software Engineering undergraduate passionat
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RoshiniDe&theme=darkhub)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-usernam&theme=darkhub)
-
+---!>
 
 <!---
 RoshiniDe/RoshiniDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
