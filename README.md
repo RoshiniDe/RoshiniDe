@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Software Engineering undergraduate passionate about building innovative solutions. 🚀
 
-🔥 About Me
+About Me:
 - 🎓 **Software Engineering Undergrad**
 - 👀 I’m interested in **web development, AI-driven applications, and software architecture**
 - 🌱 I’m currently learning **Spring Boot, React.js, and Node.js**
