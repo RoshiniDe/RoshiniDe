@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Software Engineering undergraduate passionat
 
 About Me:
 - 🎓 **Software Engineering Undergrad**
-- 👀 I’m interested in crafting intuitive **UI/UX, building AI-powered solutions, and exploring the future of web technologies.**
+- 👀 I’m interested in **crafting intuitive UI/UX**, building AI-powered solutions, and exploring the future of web technologies.
 - 🌱 I’m currently learning **Spring Boot, React.js, and Node.js**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshini-de-silva) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:roshdesilva9@gmail.com)
