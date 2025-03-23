@@ -12,6 +12,8 @@ About Me:
 
 - 🚀 Always excited to collaborate and learn new technologies!
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiniDe&layout=compact&theme=dark)
+
 <!---
 ![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshiniDe&show_icons=true&theme=dark)
 
