@@ -6,11 +6,18 @@ About Me:
 - 🎓 **Software Engineering Undergrad**
 - 👀 I’m interested in **crafting intuitive UI/UX**, and exploring the future of web technologies.
 - 🌱 I’m currently learning **Spring Boot, React.js, and Node.js**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshini-de-silva) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:roshdesilva9@gmail.com)
 - ⚡ Fun fact: **I enjoy brainstorming creative tech solutions and exploring new frameworks!**
 
 - 🚀 Always excited to collaborate and learn new technologies!
+<br></br>
+***
+
+📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/roshini-de-silva)
+- 📧 Email: roshdesilva9@gmail.com
+<br></br>
+***
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiniDe&layout=compact&theme=dark)
 
